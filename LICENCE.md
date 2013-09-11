@@ -2,8 +2,8 @@
 <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Introducción a Ruby 2.0</span> por [Javier Alvarez](https://guateonrails.com) se encuentra bajo una [Licencia Creative Commons Atribución-CompartirIgual 3.0 Guatemala](http://creativecommons.org/licenses/by-sa/3.0/gt/deed.es_CO).
 Basada en una obra en [https://github.com/jalvarezsamayoa/libro-introduccion-a-ruby-2.0](https://github.com/jalvarezsamayoa/libro-introduccion-a-ruby-2.0).
 
-<div id="deed-main-content">
-        ![](http://creativecommons.org/images/international/gt.png)
+
+![](http://creativecommons.org/images/international/gt.png)
         > CREATIVE COMMONS NO ES UNA ENTIDAD QUE PRESTA SERVICIOS PROFESIONALES DE ASESORÍA LEGAL. LA DISTRIBUCIÓN DEL PRESENTE DOCUMENTO NO CREA RELACIÓN JURÍDICA ALGUNA CON CREATIVE COMMONS. ÚNICAMENTE SE PROPORCIONA EL DOCUMENTO TAL COMO ESTÁ. CREATIVE COMMONS QUEDA LIBERADA DE CUALQUIER RESPONSABILIDAD, ASÍ COMO DEL PAGO DE COSTAS, DAÑOS O PERJUICIOS QUE SE DERIVEN DEL USO DE ESTE DOCUMENTO Y DE LA INFORMACIÓN PROPORCIONADA EN ÉL.
 
 ### _Licencia_
@@ -71,6 +71,3 @@ SALVO QUE LA LEY APLICABLE LO EXIJA EXPRESAMENTE, EL LICENCIANTE EN NINGÚN CASO
 > Creative Commons no es parte en esta Licencia y no presta ninguna garantía o aval, ni tiene relación alguna con la Obra. Creative Commons no es responsable ante usted ni ante terceros de ningún daño que surja en relación con esta Licencia. Sin perjuicio de lo mencionado en las líneas precedentes, si Creative Commons se ha identificado expresamente como el Licenciante según este documento, Creative Commons tendrá todos los derechos y obligaciones del Licenciante. Excepto para cumplir el propósito limitado de indicar al público que la Obra cuenta con la Licencia según la LPCC, Creative Commons no autoriza el uso por ninguna de las partes de la marca registrada "Creative Commons", ni de ninguna otra marca registrada ni logotipo relacionados de Creative Commons, sin el consentimiento previo y por escrito de Creative Commons. Cualquier uso permitido deberá cumplir con las directrices de uso de marca registrada de Creative Commons vigentes en ese momento, según se pueda publicar en su sitio Web o que pudiera estar disponible de alguna otra forma y de tiempo en tiempo. Para evitar cualquier duda al respecto, esta Licencia no contiene autorización de uso de la marca registrada de Creative Commons.
 > 
 > Puede ponerse en contacto con Creative Commons en la siguiente dirección:[ http://creativecommons.org/](http://creativecommons.org/)
-        <!-- END CC NOTICE -->
-
-      </div>
