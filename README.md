@@ -37,6 +37,31 @@ Distribuido bajo licencia Creative Commons Reconocimiento – Compartir Igual 3.
     * Git
 * Ruby
   * Todo es un objeto
-      
+  * Variables
+  * Funciones
+    * Aritmética
+    * Condicionales
+    * Ciclos
+    * Bloques
+    * Iteradores
+  * Clases e Instancias
+  * Atributos
+  * Mensajes y Métodos
+  * Herencia
+  * Módulos
+  * Metaprogramación
+* Librerias Standard
+  * String
+  * Number
+  * Boolean
+  * Array
+  * Hash
+  * Open Struct
+  * File
+  * HTTPNet
+  * CSV
+* Testing
+  * Test Driven Development
+  * Minitest
    
 
