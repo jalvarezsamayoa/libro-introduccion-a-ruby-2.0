@@ -5,7 +5,7 @@ Distribuido bajo licencia Creative Commons Reconocimiento – Compartir Igual 3.
 
 ## Tabla de contenidos
 
-* Introducción
+* [0. Introducción](https://github.com/jalvarezsamayoa/libro-introduccion-a-ruby-2.0/blob/master/capitulos/0.Introduccion.md)
 * Ruby. Un lenguaje, una filosofia, una comunidad.
 * Preliminares
   * Instalando Ruby
